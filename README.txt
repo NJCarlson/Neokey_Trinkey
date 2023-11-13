@@ -1,3 +1,6 @@
+A side project that experiments with Adafruits Trinkey NeoKey, mainly using arduino .ino, python and duckyscript.
+
+
 Trinkey NeoKey "Any" Key 
 
 Adafruit Trinkey Neokey programmed for when you are prompted to push "Any" key. 
@@ -8,8 +11,7 @@ Follow Adafruit's guide here to setup to modify this source code.
 
 https://learn.adafruit.com/adafruit-neokey-trinkey/overview
 
-This guide contains downloads to all the dependencies, and info on how the trinkey works.
-
+This guide contains downloads to all the dependencies, and some info on how the trinkey works.
 
 Optional 3D Printed Case - Originally by Matthew Barlow
 https://www.prusaprinters.org/prints/75222-case-for-adafruit-neokey-trinkey 
